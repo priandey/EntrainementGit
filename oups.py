@@ -1,2 +1,2 @@
-Je suis désolé, j'ai craqué !
-Mais promis, j'arrête.
+I'm sorry, i cracked
+I promise to stop !

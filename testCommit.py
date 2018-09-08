@@ -1,4 +1,4 @@
 Test 1
-J'ai rajouté quelque chose !
-J'ai encore rajouté quelque chose, c'est fou non ?
-Bon, dernière fois, promis.
+I added something !
+Another thing added, crazy isn't it ?
+Well...last add i promise :)
